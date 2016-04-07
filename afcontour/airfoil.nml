@@ -1,0 +1,5 @@
+ &Cascade stagger=0.,inangle=5.0,
+ outangle=5.0,chord=1.0,solidity=1.0,a=0.5
+ &end
+ &Geometry points=100, te2te=-1
+ &end
